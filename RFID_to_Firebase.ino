@@ -6,10 +6,10 @@
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
-#define FIREBASE_HOST "https://nodemcu-1206.firebaseio.com/"      
-#define FIREBASE_AUTH "YtEadYbnayiO7jIrytZo1z7eWaBJ3EjuQ8uUcFEk"            
+#define FIREBASE_HOST "**"      
+#define FIREBASE_AUTH "**"            
 #define WIFI_SSID "Tenda_2B1C00"                                  
-#define WIFI_PASSWORD "Rex@mra81"
+#define WIFI_PASSWORD "**"
 
 #define SS_PIN D4 //Slave Select
 #define RST_PIN D2 // Reset Pin
